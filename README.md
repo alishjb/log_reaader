@@ -14,7 +14,7 @@ pip install ipwhois
 
 ```python
 
-# returns 'Change this for finding keyword in every line of file '
+#'Change regex_keyword for finding keyword in every line of file '
 regex_keyword='(?i)union' #dont change (?i) , its for not mentioning case sensitive in log file.just change union to everything u want.
 logfile = 'apache.log' # address of file
 ```
