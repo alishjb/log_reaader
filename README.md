@@ -5,11 +5,8 @@ Reading log file and search for unnormal Requests in LOG file and IP's(also chec
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ipaddr & ipwhois.
 
 ```bash
-pip install ipaddr
-```
-```bash
-pip install ipwhois
-```
+pip install ipaddr ipwhois
+``` 
 ## Usage
 
 ```python
