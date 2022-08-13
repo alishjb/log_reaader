@@ -1,5 +1,5 @@
 # log_reader for unusual request's
-Reading log file and search for unnormal Requests in LOG file and IP's(also check cidr for finding other ip related to unnormal detected ip) 
+Reading log file and search for unnormal Requests in LOG file and IP's(also check cidr of asn for finding other ip related to unnormal detected ip) 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ipaddr & ipwhois.
