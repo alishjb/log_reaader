@@ -1,2 +1,1 @@
-pip install ipaddr
-pip install ipwhois 
+pip install ipaddr ipwhois 
